@@ -1,4 +1,4 @@
-# Certficate-Generator
+# Certificate-Generator
 
 This project is developed for to generate webinar certificates for the participant in FIKTACULAR 2022 Event.
 
