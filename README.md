@@ -6,6 +6,8 @@ It is web based application which is writen in PHP
 
 It is good interface by using bootstrap.
 
+Just input ur name and u will get the certificate!!
+
 ============================================================================================================
 
 please press this button for the first time
