@@ -10,4 +10,6 @@ It is good interface by using bootstrap.
 
 if u have a problem with GD library, pls turn on ur GD at php.ini with delete the ;
 
+better u press the button print for make a default template (for the first time)
+
 thanks 
